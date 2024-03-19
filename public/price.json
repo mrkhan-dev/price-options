@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "features": [
+      "Access to cardio area",
+      "Access to weightlifting area",
+      "Access to locker rooms and showers",
+      "Fitness assessment"
+    ],
+    "price": 29.99,
+    "currency": "USD"
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "features": [
+      "Access to all basic membership features",
+      "Access to group fitness classes",
+      "Personalized workout plan",
+      "Access to pool",
+      "Discounts on personal training sessions"
+    ],
+    "price": 49.99,
+    "currency": "USD"
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "features": [
+      "Access to all standard membership features",
+      "Unlimited access to sauna and steam room",
+      "Towel service",
+      "Nutritional consultation",
+      "Complimentary guest passes",
+      "Free smoothie after each workout"
+    ],
+    "price": 79.99,
+    "currency": "USD"
+  }
+]
